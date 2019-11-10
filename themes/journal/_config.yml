@@ -10,18 +10,7 @@ rss: atom.xml
 livere: # [data-uid] for livere.com
 disqus: 
 
-gitment:
+gittalk:
   enable: true
-  mint: true
-  count: true
-  lazy: false
-  cleanly: false
-  language:
-  github_user: moonipulate
-  github_repo: moonipulate.github.io
-  client_id: 44072973834b44150358
-  client_secret: 5e55b3cca51738dc6875f14853d2e49b22acb53d
-  proxy_gateway:
-  redirect_protocol:
 
 archives: true
