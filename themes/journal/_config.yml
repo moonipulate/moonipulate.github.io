@@ -8,6 +8,6 @@ rss: atom.xml
 # Choose the comment service according to your need.
 # Please do not use the two services at the same time.
 livere: # [data-uid] for livere.com
-disqus: moonipulate.top
+disqus: moonipulate-top
 
 archives: true
