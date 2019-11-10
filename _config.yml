@@ -92,11 +92,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: journal
 
-disqus:
-  enable: true
-  shortname: moonipulate.top
-  count: true
-
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

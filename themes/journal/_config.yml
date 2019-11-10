@@ -9,6 +9,5 @@ rss: atom.xml
 # Please do not use the two services at the same time.
 livere: # [data-uid] for livere.com
 disqus: moonipulate.top
-disqus_shortname: moonipulate.top
 
 archives: true
