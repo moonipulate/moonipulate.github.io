@@ -90,12 +90,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: journal
-
-disqus:
-  enable: true
-  shortname: moonipulate.top
-  count: true
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
